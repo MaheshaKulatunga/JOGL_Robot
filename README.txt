@@ -1,4 +1,4 @@
-COM3503 Robot Animation Assigment - aca14mkk (Mahesha Kulatunga) 
+COM3503 Robot Animation Assigment -  (Mahesha Kulatunga) 
 -----------------------------------------------------------------
 USED CODE PROVIDED BY DR STEVE MADDOCK 
 
